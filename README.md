@@ -1,4 +1,4 @@
-### Hi there! I'm Elena  👋
+### Hi! I'm Elena  👋
 
 I am a curious and driven human being passionate about data, technology, economics, and travel 🌍
 
