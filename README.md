@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**elenabat/elenabat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elena 🖖
+I am a curious and driven human being passionate about data, technology, economics, and travel. 
 
-Here are some ideas to get you started:
+I have worked +2 years in the tech industry where I developed a great interest in data analysis. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have recently completed an immersive Data Science Bootcamp at AllWomen Academy, where I have learnt about:
+- Statistics and Programming with Python
+- Exploratory Data Analysis
+- Data Visualization
+- ML supervised/unsupervised algorithms
+- Natural Language Processing
+- SQL relational databases  
+
+
+I am now looking for a new opportunity to work in the data world.
