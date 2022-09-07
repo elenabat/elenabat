@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Elena 🖖
+I'm Elena 
 I am a curious and driven human being passionate about data, technology, economics, and travel. 
 
 I have worked +2 years in the tech industry where I developed a great interest in data analysis. 
